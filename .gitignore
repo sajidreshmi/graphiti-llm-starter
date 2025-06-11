@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+neo4j_data/
+# Virtual environment
+virtualenv/
+virtualenvs/
+venv/
+.venv/
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+thumbs.db
+
+# Environment variables
+.env
+
+# Neo4j data
+neo4j_data/
