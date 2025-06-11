@@ -57,7 +57,8 @@ Replace `your_neo4j_password` and `your_openai_api_key` with your actual credent
 To get this project up and running, follow these steps:
 
 1.  **Neo4j Setup:**
-    Ensure you have Docker and Docker Compose installed. The `docker-compose.yml` file includes a service for Neo4j. This will automatically set up the Neo4j database when you start the Docker services.
+    The simplest way to install Neo4j is via Neo4j Desktop. It provides a user-friendly interface to manage Neo4j instances and databases. Api port is localhost:7687 and browser port is localhost 7474
+
 
 2.  **Run**
     ```bash
