@@ -64,5 +64,9 @@ To get this project up and running, follow these steps:
     ```bash
     python quickstart.py
     ```
+3. ** Live Agent (Optional)**
 
-This will start the Neo4j database and the application services, allowing you to interact with the Graphiti knowledge graph.
+   this is an interative agent which will connect to your knowledge graph and augments the answers from LLM.
+   ```bash
+    python live_agent.py
+     ```
