@@ -26,6 +26,8 @@ The `connection.py` file provides methods for interacting with the Neo4j databas
 
 - **`center_node_search`**: This method focuses on finding information related to a central node in the graph. It's useful for exploring the neighborhood of a specific entity and understanding its direct and indirect relationships.
 
+-   **`node search using reciepe`**: Graphiti provides predefined search recipes optimized for different search scenarios. Here we use NODE_HYBRID_SEARCH_RRF for retrieving nodes directly instead of edges.
+
 These search functions allow you to effectively retrieve and analyze the knowledge stored in your Graphiti knowledge graph.
 
 ## Prerequisites
